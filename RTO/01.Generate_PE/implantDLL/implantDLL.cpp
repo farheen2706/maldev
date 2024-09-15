@@ -1,9 +1,3 @@
-/*
-
- Red Team Operator course code template - DLL
- author: reenz0h (twitter: @sektor7net)
-
-*/
 
 #include <Windows.h>
 #pragma comment (lib, "user32.lib")
